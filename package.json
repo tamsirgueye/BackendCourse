@@ -1,0 +1,20 @@
+{
+  "name": "nodejsmysql",
+  "version": "1.0.0",
+  "description": "connection à mysql",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sidé SARR",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
