@@ -20,3 +20,5 @@
 > Si vous avez l'erreur ci-dessus c'est que vous utiliser `mysql8` comme serveur de base de données. Vous devez la corriger en faisant l'une des actions suivantes
 >- Utiliser mysql5 comme serveur de base de données.
 >- Ou remplacer le package mysql par mysql2 en exécutant cette commande `npm un mysql && npm i mysql2` dans le dossier du projet.
+>
+> Pour plus de détails jetez un coup d'oeil [ici](https://stackoverflow.com/a/56509065)
